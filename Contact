@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+    </head>
+<body>
+    <H1>Contacts</H1>
+    <ul>
+        <li>Email address: upresh41@gmail.com</li>
+        <li>Phone number:+234 8139137476</li>
+    
+    </ul>
+</body>
+    </html>
